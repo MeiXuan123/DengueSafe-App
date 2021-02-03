@@ -12,21 +12,16 @@ The app is able to send an alert when the number of cases in Singapore are shift
 ## Documentation
 All documents can be found under the Documention folder
 
-- Report:
-The Report is named: SRS-Report.pdf.
+1. Software Requirements Specification Report: SRS-Report.pdf.
 
-- Analysis Model Diagrams
-All the diagrams e.g. Use Case Model, Dialog Map, Class Diagram and Sequence Diagrams can be found inside the ‘Diagrams’ folder. The diagrams are in .jpg/.png format.
+2. Analysis Model Diagrams: ‘Diagrams’ folder. The diagrams are in .jpg/.png format.
 
-- Live App Demo:
-The video is named: App-Demo.mp4
-The video can also be found at : https://youtu.be/l07JdE6q9GU
+3. Live App Demo: App-Demo.mp4 and can also be found at : https://youtu.be/l07JdE6q9GU
 
 ## Developed by:
-NTU Students: 
-Pal, Aratrika
-Tan Mei Xuan
-Tan Min, Tricia
-Bachhas Nikita
-Loh Xin Yi
+Pal, Aratrika  
+Tan Mei Xuan  
+Tan Min, Tricia  
+Bachhas Nikita  
+Loh Xin Yi  
 Ong Li Wen
