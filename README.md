@@ -16,7 +16,7 @@ All documents can be found under the Documention folder
 
 2. Analysis Model Diagrams: ‘Diagrams’ folder. The diagrams are in .jpg/.png format.
 
-3. Live App Demostration:  https://youtu.be/l07JdE6q9GU or email me @ tanmeixuan123@gmail.com for the .mp4 version
+3. Live App Demostration:  https://youtu.be/l07JdE6q9GU
 
 ## Developed by:
 Pal, Aratrika  
