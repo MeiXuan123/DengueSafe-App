@@ -8,3 +8,17 @@ Our DengueSafe app aims to help students of Nanyang Technological University by 
 
 3. Retrieve real time data of dengue cases in Singapore and represent it using maps and line charts to be informative and useful for the students.
 The app is able to send an alert when the number of cases in Singapore are shifting towards the university, and it detects that there might soon be an inflation of dengue cases on campus.
+
+## Documentation
+All documents can be found under the Documention folder
+
+- Report:
+The Report is named: SRS-Report.pdf.
+
+- Analysis Model Diagrams
+All the diagrams: Use Case Model, Dialog Map, Class Diagram and Sequence Diagrams can be
+found inside the ‘Diagrams’ folder. The diagrams are in .jpg/.png format.
+
+- Live App Demo:
+The video is named: App-Demo.mp4
+The video can also be found at : https://youtu.be/l07JdE6q9GU
