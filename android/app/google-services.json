@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812848373395",
+    "firebase_url": "https://denguedatabase.firebaseio.com",
+    "project_id": "denguedatabase",
+    "storage_bucket": "denguedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812848373395:android:17d7192bcd23c732b3b766",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812848373395-f6rf1vmb3boooqq791bid1kimqspue3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyc2CJVVMH8ONkNIYmafFcpKqoHwGeRvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812848373395-f6rf1vmb3boooqq791bid1kimqspue3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
